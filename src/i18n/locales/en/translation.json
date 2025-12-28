@@ -1,0 +1,67 @@
+{
+  "common": {
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "submit": "Submit",
+    "cancel": "Cancel",
+    "save": "Save",
+    "delete": "Delete",
+    "edit": "Edit",
+    "close": "Close",
+    "learnMore": "Learn More",
+    "getStarted": "Get Started",
+    "contactUs": "Contact Us"
+  },
+  "nav": {
+    "home": "Home",
+    "solutions": "Solutions",
+    "pricing": "Pricing",
+    "about": "About",
+    "contact": "Contact",
+    "faq": "FAQ"
+  },
+  "hero": {
+    "title": "Transform Your Business with Intelligent Automation",
+    "subtitle": "Streamline workflows, boost productivity, and scale your operations with custom automation solutions",
+    "cta": "Book Free Consultation"
+  },
+  "contact": {
+    "title1": "Ready to",
+    "title2": "Transform",
+    "title3": "Your Business?",
+    "subtitle": "Book your free 30-minute consultation. No sales pitch - just an honest conversation about how automation can help your business.",
+    "meetingTitle": "Schedule a Meeting?",
+    "contactTitle": "We'll Contact You?",
+    "contactSubtitle": "Fill in your details and we'll get back to you soon",
+    "bookButton": "Book a Meeting",
+    "bullets": {
+      "consultation": "Free 30-minute consultation",
+      "roadmap": "Custom solution roadmap",
+      "noObligation": "No obligation, just insights"
+    },
+    "form": {
+      "name": "Full Name",
+      "email": "Work Email",
+      "company": "Company",
+      "budget": "Select budget range",
+      "message": "Tell us about your automation goals, current challenges, or any specific workflows you'd like to improve..."
+    },
+    "budgetOptions": {
+      "small": "Small (<$10K)",
+      "medium": "Medium ($10K-$50K)",
+      "large": "Large ($50K+)",
+      "enterprise": "Enterprise ($100K+)"
+    },
+    "submitting": "Sending...",
+    "success": {
+      "title": "Message sent successfully!",
+      "text": "We'll get back to you within 24 hours to schedule your consultation."
+    }
+  },
+  "footer": {
+    "copyright": "© {{year}} Automation Flow. All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service"
+  }
+}
